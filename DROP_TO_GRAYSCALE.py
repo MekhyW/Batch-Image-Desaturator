@@ -1,7 +1,7 @@
 try:
     import sys
     from PIL import Image
-    newname = input('Type the filename: ')
+    newname = input('Type the new name for the files: ')
 except:
     print("UNABLE TO IMPORT PILLOW")
 counter = 0
