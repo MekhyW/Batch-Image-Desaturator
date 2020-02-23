@@ -1,6 +1,8 @@
 # Batch Image De-saturator
 ###### Simple Python program created to quickly transform multiple RGB images to Grayscale!
 
+<img src="C:\Users\dell 1\Documents\GitHub\Batch-Image-Desaturator\scikit-image_org.png" alt="image" style="zoom:72%;" />
+
 Very useful for image classifier training dataset preparation, OpenCV and reference key frame mapping.
 
 ### How to Use:
