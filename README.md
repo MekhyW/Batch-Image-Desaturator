@@ -5,7 +5,7 @@
 
 Very useful for image classifier training dataset preparation, OpenCV and reference key frame mapping.
 
-### How to Use:
+## How to Use:
 
 1. If you are using Windows or Mac and have not installed Python yet, you can do so from [Here](www.python.org/downloads/), make sure to install pip with the installer and add variable to PATH
 
@@ -21,7 +21,7 @@ Very useful for image classifier training dataset preparation, OpenCV and refere
 
    
 
-### Where to Find Me:
+## Where to Find Me:
 
 * [Telegram Contact 🔵](https://t.me/mekhyw)
 * [YouTube Channel 🔴](https://www.youtube.com/channel/UC3__YPhMGjytXUqRUmriQ8A?view_as=subscriber)
