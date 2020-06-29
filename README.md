@@ -23,6 +23,7 @@ Very useful for image classifier training dataset preparation, OpenCV and refere
 
 ## Where to Find Me:
 
+* Email: felipe_catapano@yahoo.com.br
 * [Telegram Contact 🔵](https://t.me/mekhyw)
 * [YouTube Channel 🔴](https://www.youtube.com/channel/UC3__YPhMGjytXUqRUmriQ8A?view_as=subscriber)
 * [Twitter Page 🐦](https://twitter.com/MekhyW)
