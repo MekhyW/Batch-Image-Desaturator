@@ -18,12 +18,3 @@ Very useful for image classifier training dataset preparation, OpenCV and refere
 4. Drop the images you wish to desaturate directly into the script and give them a name as show in the proof_of_concept video
 
 5. Done!
-
-   
-
-## Where to Find Me:
-
-* Email: felipe_catapano@yahoo.com.br
-* [Telegram Contact 🔵](https://t.me/mekhyw)
-* [Twitter Page 🐦](https://twitter.com/MekhyW)
-
